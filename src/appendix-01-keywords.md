@@ -23,18 +23,18 @@
 * `let` - variable binding
 * `loop` - unconditional, infinite loop
 * `match` - pattern matching
-* `mod` - module declaration
+* `mod` - 声明模块
 * `move` - makes a closure take ownership of all its captures
 * `mut` - denotes mutability in references, raw pointers, and pattern bindings
 * `pub` - denotes public visibility in struct fields, `impl` blocks, and modules
-* `ref` - by-reference binding
-* `return` - return from function
+* `ref` - 引用的绑定
+* `return` - 从函数中返回
 * `Self` - type alias for the type implementing a trait
 * `self` - method subject or current module
-* `static` - global variable or lifetime lasting the entire program execution
-* `struct` - structure definition
+* `static` - 全局变量或生命周期维持整个程序执行
+* `struct` - 声明结构体
 * `super` - parent module of the current module
-* `trait` - trait definition
+* `trait` - trait定义
 * `true` - boolean true literal
 * `type` - type alias and associated type definition
 * `unsafe` - denotes unsafe code, functions, traits, and implementations
